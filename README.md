@@ -14,7 +14,7 @@ A beautiful and responsive **React + Tailwind CSS** application that helps you d
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 - **React.js** — Frontend library for building the UI.  
 - **Tailwind CSS** — For fast, responsive, and modern styling.  
@@ -35,9 +35,10 @@ A beautiful and responsive **React + Tailwind CSS** application that helps you d
 ```bash
 git clone https://github.com/yourusername/aganitha-recipe-app.git
 cd aganitha-recipe-app
+npm install
 
 ``` 
-## 2 npm install
+
 
 
 

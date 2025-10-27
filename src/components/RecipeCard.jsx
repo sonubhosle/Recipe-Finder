@@ -12,7 +12,7 @@ export default function RecipeCard({ meal }) {
       <div className="relative w-full h-60 overflow-hidden bg-gray-100">
         {/* Skeleton shimmer while image loads */}
         {!imageLoaded && (
-          <div className="absolute inset-0 animate-pulse bg-gradient-to-r from-gray-200 via-gray-300 to-gray-200" />
+          <div className="absolute inset-0 animate-pulse bg-gradient-to-r from-gray-100 via-gray-200 to-gray-100" />
         )}
 
         <img
