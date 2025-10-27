@@ -23,6 +23,9 @@ A beautiful and responsive **React + Tailwind CSS** application that helps you d
 ---
 
 ## Screenshots
+| Search View | Recipe Details |
+|--------------|----------------|
+| ![Search Screenshot](https://i.postimg.cc/5NPZ95SL/Recipe-Home-Page.png) | ![Details Screenshot](https://i.postimg.cc/c45bGxsd/Recipe-Details.png) |
 
 
 ## Getting Started
