@@ -28,6 +28,13 @@ A beautiful and responsive **React + Tailwind CSS** application that helps you d
 | ![Search Screenshot](https://i.postimg.cc/5NPZ95SL/Recipe-Home-Page.png) | ![Details Screenshot](https://i.postimg.cc/c45bGxsd/Recipe-Details.png) |
 
 
+## Live Demo
+[Deployed App](https://recipe-finder-nine-gray.vercel.app/)
+
+## Video Demonstration
+[Watch the Demo](https://youtu.be/your-demo-video-link)
+
+
 ## Getting Started
 
 ## 1 Clone the Repository

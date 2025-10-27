@@ -105,13 +105,13 @@ export default function RecipeDetails() {
           </p>
         </section>
 
-        {/* Video Section (if available) */}
+        {/* Video Section */}
         {meal.strYoutube && (
           <section className="bg-white rounded-xl border border-gray-200 p-6 md:p-8">
             <h2 className="text-2xl font-bold text-gray-800 mb-4">
               Watch Recipe Video 
             </h2>
-            <div className="">
+            <div className="w-full h-100">
               <iframe
                 src={`https://www.youtube.com/embed/${meal.strYoutube.split('v=')[1]}`}
                 title="Recipe Video"
